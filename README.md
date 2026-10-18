@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 🎓 **B.Tech CSE @ IIT Jodhpur** · CGPA **8.94** · Expected 2027
-- 💼 ex-SDE Intern **@ Media.net** — built AI keyword discovery pipelines, shipped $3.7k in realized profit
+- 💼 ex-SDE Intern **@ Media.net** — built AI keyword discovery pipelines
 - 🤖 Currently building **Delphion** (AI Agents + MCP) and deploying **RADA** (RAG Document Analysis)
 - 🏆 JEE Advanced 2023 — **Rank 2070** · JEE Mains — **99.53 percentile**
 - 📫 Reach me at **b23cs1033@iitj.ac.in**
